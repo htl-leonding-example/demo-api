@@ -4,19 +4,17 @@
 
 - download jar-file from
 
-```
-https://github.com/htl-leonding-example/demo-api/releases/download/1.0.0/demo-api.jar
-```
+  <https://github.com/htl-leonding-example/demo-api/releases/download/1.0.0/demo-api.jar>
 
 - run jar-file with
 
-```
-java -jar demo-api.jar
-```
+  ```
+  java -jar demo-api.jar
+  ```
 
 - api-docs w/ swagger
 
-<http://localhost:8080/q/swagger-ui/>
+  <http://localhost:8080/q/swagger-ui/>
 
 
 ## Technical Details
