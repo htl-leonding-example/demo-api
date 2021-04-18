@@ -14,6 +14,10 @@ https://github.com/htl-leonding-example/demo-api/releases/download/1.0.0/demo-ap
 java -jar demo-api.jar
 ```
 
+- api-docs w/ swagger
+
+<http://localhost:8080/q/swagger-ui/>
+
 
 ## Technical Details
 
